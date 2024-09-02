@@ -1,0 +1,13 @@
+{
+  "description": "A personal portfolio",
+  "repo": "https://github.com/jamied132/jamied132.github.io",
+  "owner": {
+    "username": "jamied132",
+    "email": "jamied132.email@gmail.com"
+  },
+  "record": {
+    "MX": [
+      "mail.hmailserver.com"
+    ]
+  }
+}
