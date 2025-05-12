@@ -1,0 +1,10 @@
+{
+  "description": "A social media website + other stuff",
+  "owner": {
+    "username": "jamied132",
+    "email": "hi@elaruu.is-truly-a.pro"
+  },
+  "records": {
+    "NS": ["hasslo.ns.cloudflare.com", "veronica.ns.cloudflare.com"]
+  }
+}
